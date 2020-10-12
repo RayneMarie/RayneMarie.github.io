@@ -1,5 +1,5 @@
 h1{
-  p fancy{
+  p.fancy{
     color:#666;
     font-style: oblique;
   }
