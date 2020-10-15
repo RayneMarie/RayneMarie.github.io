@@ -1,3 +1,6 @@
+body {
+  background-color: ffd5bc;
+}
 h1{
   display: inline;
   background-color:#000;
@@ -7,7 +10,4 @@ h1{
 p.fancy{
   color: #666;
     font-family: oblique;
-}
-body {
-  background-color: ffd5bc;
 }
